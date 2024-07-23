@@ -60,13 +60,13 @@
 }
 
 
-header{
+.site-header{
     position: absolute !important;
     width: 100vw;
     background-color: rgba(255, 255, 255, 0) !important;
 }
 
-a{
+.menu{
     font-family: 'avenir_next_lt_proitalic' !important;
     color: #3e291c !important;
 
@@ -74,8 +74,12 @@ a{
 
 p{
     font-family: 'avenir_next_lt_proregular'!important;
-
 }
+
+li{
+    font-family: 'avenir_next_lt_proregular'!important;
+}
+
 .title-intro{
     font-family: 'avenir_next_lt_proregular';
 }
@@ -115,6 +119,16 @@ p{
     font-family: 'avenir_next_lt_proregular' !important;
 
 }
+
+.menu-articles-site{
+    padding-top: 5%;
+}
+
+.menu-articles-articles{
+    padding-bottom: 5%;
+}
+
+
 
 
 
