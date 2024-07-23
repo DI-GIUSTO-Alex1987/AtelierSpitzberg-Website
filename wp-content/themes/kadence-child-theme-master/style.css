@@ -13,3 +13,113 @@
 /* Theme customization starts here
 -------------------------------------------------------------- */
 
+@font-face {
+    font-family: 'axon_lightregular';
+    src: url('./fonts/axon_light_regular-webfont.woff2') format('woff2'),
+         url('./fonts/axon_light_regular-webfont.woff') format('woff'),
+         url('./fonts/axon_light_regular-webfont.ttf') format('truetype'),
+         url('./fonts/axon_light_regular-webfont.svg#axon_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'avenir_next_lt_probold';
+    src: url('./fonts/avenirnextltpro-bold-webfont.woff2') format('woff2'),
+         url('./fonts/avenirnextltpro-bold-webfont.woff') format('woff'),
+         url('./fonts/avenirnextltpro-bold-webfont.ttf') format('truetype'),
+         url('./fonts/avenirnextltpro-bold-webfont.svg#avenir_next_lt_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'avenir_next_lt_proitalic';
+    src: url('./fonts/avenirnextltpro-it-webfont.woff2') format('woff2'),
+         url('./fonts/avenirnextltpro-it-webfont.woff') format('woff'),
+         url('./fonts/avenirnextltpro-it-webfont.ttf') format('truetype'),
+         url('./fonts/avenirnextltpro-it-webfont.svg#avenir_next_lt_proitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'avenir_next_lt_proregular';
+    src: url('./fonts/avenirnextltpro-regular-webfont.woff2') format('woff2'),
+         url('./fonts/avenirnextltpro-regular-webfont.woff') format('woff'),
+         url('./fonts/avenirnextltpro-regular-webfont.ttf') format('truetype'),
+         url('./fonts/avenirnextltpro-regular-webfont.svg#avenir_next_lt_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+header{
+    position: absolute !important;
+    width: 100vw;
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+a{
+    font-family: 'avenir_next_lt_proitalic' !important;
+    color: #3e291c !important;
+
+}
+
+p{
+    font-family: 'avenir_next_lt_proregular'!important;
+
+}
+.title-intro{
+    font-family: 'avenir_next_lt_proregular';
+}
+
+.diapo-home{
+    border-radius: 25% 10% !important;
+}
+
+.n2-ss-slider .n2-ow{
+    border-radius: 0% 25px 0% 25px !important;
+    overflow: hidden !important;
+
+}
+
+
+.demande-devis{
+    font-family: 'avenir_next_lt_proitalic' !important;
+}
+
+.compteurs{
+    font-family: 'avenir_next_lt_proregular' !important;
+
+}
+
+.paragraphe-compteur{
+    font-family: 'avenir_next_lt_proitalic' !important;
+
+}
+
+
+.prestaplustitle{
+    font-family: 'avenir_next_lt_proregular' !important;
+
+}
+
+.prestaplustext{
+    font-family: 'avenir_next_lt_proregular' !important;
+
+}
+
+
+
+
+
+
+
+
